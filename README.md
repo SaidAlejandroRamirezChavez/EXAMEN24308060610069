@@ -8,10 +8,6 @@ NUMEOR DE CONTROL: 24308060610069
 
 <img width="200" height="196" alt="image" src="https://github.com/user-attachments/assets/5219a705-1fd3-425f-8f7e-3aed70e3b03e" />
 
- <img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/8e84350b-1822-4eee-a39b-ea7ac8f059c2" />
-
- <img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/39133f6e-c9b1-4d07-8965-38a8200fa035" />
-
 <img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/a00ac13f-78de-499c-b176-2cf0d8d61079" />
  
  <img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/137ae3fc-6eca-4eef-9b7c-7ca7bd93492a" />
